@@ -23,7 +23,7 @@ website:
         menu:
         - text: AgroParisTech (students)
           href: mailto:caroline.cognot@agroparistech.fr
-        - text: EdF (everyone else)
+        - text: EDF (everyone else)
           href: mailto:caroline.cognot@edf.fr
 format:
   html:

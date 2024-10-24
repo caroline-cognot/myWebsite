@@ -9,4 +9,19 @@ about:
  
 ---
 
+# About me
 I am a PhD student in statistics. My subject is **Multisite stochastic modeling of multivariate weather time series**. 
+
+### Where to find me
+  - Monday, Tuesday : Opale-1-EF-01 - EDF Lab Paris-Saclay, 7 Bd Gaspard Monge, 91120 Palaiseau
+  - Wednesday, Thursday : E3-710 - AgroParisTech, 22 place de l’Agronomie, 91120 Palaiseau
+  - Friday : any
+
+```{r echo=F}
+library(leaflet)
+
+leaflet() %>%
+  addTiles() %>% # Add default OpenStreetMap map tiles
+  addMarkers(lat = c(48.715108,48.717186), lng = c(2.193015,2.197009))
+```
+

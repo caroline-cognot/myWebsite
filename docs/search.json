@@ -16,9 +16,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Caroline Cognot",
+    "title": "About me",
     "section": "",
-    "text": "I am a PhD student in statistics. My subject is Multisite stochastic modeling of multivariate weather time series."
+    "text": "About me\nI am a PhD student in statistics. My subject is Multisite stochastic modeling of multivariate weather time series.\n\nWhere to find me\n\nMonday, Tuesday : Opale-1-EF-01 - EDF Lab Paris-Saclay, 7 Bd Gaspard Monge, 91120 Palaiseau\nWednesday, Thursday : E3-710 - AgroParisTech, 22 place de l’Agronomie, 91120 Palaiseau\nFriday : any"
   },
   {
     "objectID": "CV.html",
@@ -40,5 +40,12 @@
     "title": "Collapse-callout Example",
     "section": "More callout blocks",
     "text": "More callout blocks\n\n\n\n\n\n\nExpand To Learn About Collapse\n\n\n\nThis is an example of a ‘folded’ caution callout that can be expanded by the user. You can use collapse=\"true\" to collapse it by default or collapse=\"false\" to make a collapsible callout that is expanded by default.\n\n\n\n\n\n\n\n\nImportant\n\n\n\nThis is important\n\n\n\n\n\n\n\n\nwarning\n\n\n\nWARNINGS !!!!"
+  },
+  {
+    "objectID": "index.html#where-to-find-me",
+    "href": "index.html#where-to-find-me",
+    "title": "About me",
+    "section": "",
+    "text": "Monday, Tuesday : O1EF01 - EdF Lab Paris-Saclay, 7 Bd Gaspard Monge, 91120 Palaiseau\nWednesday, Thursday : E3.710 - AgroParisTech, 22 place de l’Agronomie, 91120 Palaiseau\nFriday : home or any of the above, with a completely non-uniform random choice"
   }
 ]

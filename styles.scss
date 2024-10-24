@@ -25,3 +25,7 @@ $link-color: $orange; // hyperlinks
 // Inline code
 $code-bg: $cream; // inline code background color
 $code-color: $dark-green; // inline code text color
+
+#quarto-document-content {
+	text-align: left;
+}
