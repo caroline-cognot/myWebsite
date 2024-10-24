@@ -3,18 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "Caroline Cognot Website"
+  title: "Caroline Cognot"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: bibliographie.qmd
-        text: Bibliodemoi
+      - href: CV.qmd
+        text: CV
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
 

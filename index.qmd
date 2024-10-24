@@ -1,5 +1,18 @@
 ---
-title: "myWebsite"
+#title: "Caroline Cognot"
+image: images/mypicture.jpg
+toc: false
+about: 
+  template: solana
+  image-shape: rectangle
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://linkedin.com/in/caroline-cognot
+    - text: GitHub
+      href: https://https://github.com/caroline-cognot
+    - text: Email
+      href: mailto:caroline.cognot@edf.fr
 ---
 
 This is a Quarto website.

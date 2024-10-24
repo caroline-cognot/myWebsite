@@ -16,8 +16,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "myWebsite",
+    "title": "Caroline Cognot",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Collapse-callout Example",
+    "section": "",
+    "text": "View the source code by clicking &lt;/&gt; Code on the top right corner."
+  },
+  {
+    "objectID": "CV.html#callout-blocks",
+    "href": "CV.html#callout-blocks",
+    "title": "Collapse-callout Example",
+    "section": "Callout Blocks",
+    "text": "Callout Blocks\n\n\n\n\n\n\nNote\n\n\n\nNote that there are five types of callouts, including: note, warning, important, tip, and caution.\n\n\n\n\n\n\n\n\nTip With Caption\n\n\n\nThis is an example of a callout with a caption."
+  },
+  {
+    "objectID": "CV.html#more-callout-blocks",
+    "href": "CV.html#more-callout-blocks",
+    "title": "Collapse-callout Example",
+    "section": "More callout blocks",
+    "text": "More callout blocks\n\n\n\n\n\n\nExpand To Learn About Collapse\n\n\n\nThis is an example of a ‘folded’ caution callout that can be expanded by the user. You can use collapse=\"true\" to collapse it by default or collapse=\"false\" to make a collapsible callout that is expanded by default.\n\n\n:::{.callout-important collapse =“true”} ## Important\nThis is important :::\n\n\n\n\n\n\nwarning\n\n\n\nWARNINGS !!!!"
   }
 ]
