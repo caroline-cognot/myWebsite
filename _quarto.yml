@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "myWebsite"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: bibliographie.qmd
+        text: Bibliodemoi
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
