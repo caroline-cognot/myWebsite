@@ -4,18 +4,30 @@ project:
 
 website:
   title: "Caroline Cognot"
+  favicon: assets/chicken_1.png # NOTE: that the `favicon` is a `website` level option (not under `navbar`)
+
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - href: CV.qmd
         text: CV
-
+    right: 
+      - icon: github # add icons as navbar buttons
+        href: https://github.com/caroline-cognot
+        target: _blank
+      - icon: linkedin
+        href: https://www.linkedin.com/in/caroline-cognot-591969196/
+        target: _blank
+      - icon: envelope
+        menu:
+        - text: AgroParisTech (students)
+          href: mailto:caroline.cognot@agroparistech.fr
+        - text: EdF (everyone else)
+          href: mailto:caroline.cognot@edf.fr
 format:
   html:
-    theme: minty
-    css: styles.css
+    theme: styles.scss
     toc: true
 
 editor: visual

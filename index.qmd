@@ -6,19 +6,7 @@ about:
   template: solana
   image-shape: rectangle
   image-width: 17em
-  links:
-    - text: LinkedIn
-      href: https://linkedin.com/in/caroline-cognot
-    - text: GitHub
-      href: https://https://github.com/caroline-cognot
-    - text: Email
-      href: mailto:caroline.cognot@edf.fr
+ 
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I am a PhD student in statistics. My subject is "Multisite stochastic modeling of multivariate weather time serie". 
