@@ -9,4 +9,4 @@ about:
  
 ---
 
-I am a PhD student in statistics. My subject is "Multisite stochastic modeling of multivariate weather time serie". 
+I am a PhD student in statistics. My subject is **Multisite stochastic modeling of multivariate weather time series**. 
