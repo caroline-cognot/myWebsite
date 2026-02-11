@@ -5,9 +5,9 @@ execute:
   freeze: true  # never re-render during project render
 engine: knitr 
 resources:
-  - "assets/cv.pdf"
+  - "assets/CV_fev26.pdf"
 cv:
-  pdf: "assets/cv.pdf"
+  pdf: "assets/CV_fev26.pdf"
 ---
 
 ```{css echo=FALSE}
