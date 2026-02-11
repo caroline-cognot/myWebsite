@@ -3,14 +3,18 @@
 image: images/mypicture.jpg
 toc: false
 about: 
-  template: solana
-  image-shape: rectangle
-  image-width: 17em
+  template: trestles
+  image-shape: round
+  image-width: 20em
  
 ---
 
 # About me
-I am a PhD student in statistics. My subject is **Multisite stochastic generation of multivariate weather time series**. 
+I am a PhD student in statistics.
+My subject is **Multisite stochastic generation of multivariate weather time series**. 
+
+I am a part of the R38 team at EDF, as well as in [MIA-PS](https://mia-ps.inrae.fr/node/807) team at [INRAE](https://www.inrae.fr/en), both located in Palaiseau.
+
 
 ### Where to find me
   - Monday, Tuesday : Opale-1-EF-01 - EDF Lab Paris-Saclay, 7 Bd Gaspard Monge, 91120 Palaiseau
