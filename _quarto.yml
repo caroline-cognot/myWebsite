@@ -21,9 +21,9 @@ website:
         target: _blank
       - icon: envelope
         menu:
-        - text: AgroParisTech (students)
+        - text: AgroParisTech (main adress)
           href: mailto:caroline.cognot@agroparistech.fr
-        - text: EDF (everyone else)
+        - text: EDF (secondary adress)
           href: mailto:caroline.cognot@edf.fr
 format:
   html:
