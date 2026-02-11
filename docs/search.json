@@ -47,5 +47,26 @@
     "title": "About me",
     "section": "",
     "text": "Monday, Tuesday : O1EF01 - EdF Lab Paris-Saclay, 7 Bd Gaspard Monge, 91120 Palaiseau\nWednesday, Thursday : E3.710 - AgroParisTech, 22 place de l’Agronomie, 91120 Palaiseau\nFriday : home or any of the above, with a completely non-uniform random choice"
+  },
+  {
+    "objectID": "posts/my_first_package.html",
+    "href": "posts/my_first_package.html",
+    "title": "New package : SpatialBernoulli.jl",
+    "section": "",
+    "text": "My very first package\nI am pleased to announce that my very first real package is available on GitHub : SpatialBernoulli\n\n\n\nSome realisations of a spatially correlated binary variable…\n\n\n\n\nInstallation\nThe package runs on julia 1.11 and above. In a Julia session switch to pkg&gt; mode to add the package:\njulia&gt;] # switch to pkg&gt; mode\npkg&gt; add https://github.com/caroline-cognot/SpatialBernoulli.jl\nTo run an example, see documentation.\nFor now, model fitting relies on Optimization.\n\n\nHow did I build this package ?\nFollowed instructions from\n\nhttps://julialang.org/contribute/developing_package/ for the creation of the package using PkgTemplates\nhttps://documenter.juliadocs.org/stable/man/guide/ for setting up the documentation\nhttps://m3g.github.io/JuliaNotes.jl/stable/publish_docs/ for publishing the documentation\n\n\n\nHow did I build this page ?\nFollowed the code of Léo Micollet who followed the instructions of Lucia Clarotto who followed the instructions she gave us in StateoftheR session."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Here, I’ll try to write about my research, mathematics, or anything else I do that maybe can be of use !\n\n\n\n\n\n\n\n\n\n\n\n\nNew package : SpatialBernoulli.jl\n\n\n\n\n\n\nCaroline Cognot\n\n\nFeb 11, 2026\n\n\n\n\n\n\n\n\n\n\n\nMy first article is published\n\n\n\n\n\n\n\n\n\nOct 9, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/my_first_article.html",
+    "href": "posts/my_first_article.html",
+    "title": "My first article is published",
+    "section": "",
+    "text": "Publication success !\nI am pleased to announce that my very first paper is published here : A spatio-temporal weather generator for the temperature over France. It is a joint paper with my supervisors, Liliane Bel, Sylvie Parey and David Métivier.\nIt talks about the modelling of mean daily temperature at the scale of France, incorporating trends, seasonality and spatio-temporal geostatistics.\n\n\n\nArticle thumbnail image"
   }
 ]

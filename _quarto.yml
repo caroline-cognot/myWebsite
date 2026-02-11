@@ -12,6 +12,8 @@ website:
         text: Home
       - href: CV.qmd
         text: CV
+      - href: blog.qmd
+        text: Posts
     right: 
       - icon: github # add icons as navbar buttons
         href: https://github.com/caroline-cognot
