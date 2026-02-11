@@ -10,7 +10,7 @@ about:
 ---
 
 # About me
-I am a PhD student in statistics. My subject is **Multisite stochastic modeling of multivariate weather time series**. 
+I am a PhD student in statistics. My subject is **Multisite stochastic generation of multivariate weather time series**. 
 
 ### Where to find me
   - Monday, Tuesday : Opale-1-EF-01 - EDF Lab Paris-Saclay, 7 Bd Gaspard Monge, 91120 Palaiseau
