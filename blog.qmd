@@ -7,4 +7,3 @@ listing:
   categories: true # allows you to sort posts by assigned categories 
 ---
 
-Here, I'll try to write about my research, mathematics, or anything else I do that maybe can be of use !
