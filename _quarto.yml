@@ -10,11 +10,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: CV.qmd
-        text: CV
       - href: blog.qmd
-        text: Posts
+        text: Research
     right: 
+      - text: CV
+        icon: file-earmark-pdf
+        href: assets/CV_fev26.pdf
+        target: _blank
       - icon: github # add icons as navbar buttons
         href: https://github.com/caroline-cognot
         target: _blank

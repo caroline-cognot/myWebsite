@@ -3,20 +3,20 @@
 image: images/mypicture.jpg
 toc: false
 about: 
-  template: trestles
-  image-shape: round
+  template: marquee
+  image-shape: rectangle
   image-width: 20em
  
 ---
 
-# About me
+## About me
 I am a PhD student in statistics.
 My subject is **Multisite stochastic generation of multivariate weather time series**. 
 
 I am a part of the R38 team at EDF, as well as in [MIA-PS](https://mia-ps.inrae.fr/) team at [INRAE](https://www.inrae.fr/en), both located in Palaiseau.
 
 
-### Where to find me
+## Where to find me
   - Monday, Tuesday : Opale-1-EF-01 - EDF Lab Paris-Saclay, 7 Bd Gaspard Monge, 91120 Palaiseau
   - Wednesday, Thursday : E3-710 - AgroParisTech, 22 place de l’Agronomie, 91120 Palaiseau
   - Friday : any
@@ -29,3 +29,9 @@ leaflet() %>%
   addMarkers(lat = c(48.715108,48.717186), lng = c(2.193015,2.197009))
 ```
 
+## Publications
+
+  <iframe  width="800" height="800" name="iframe-field_my_publications-572" id="iframe-field_my_publications-572" title="Publications" allow="accelerometer;autoplay;camera;encrypted-media;geolocation;gyroscope;microphone;payment;picture-in-picture" src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Caroline%2C+Cognot&amp;CB_auteur=oui&amp;CB_titre=oui&amp;CB_identifiant=oui&amp;CB_article=oui&amp;CB_DOI=oui&amp;CB_pubmedId=oui&amp;CB_resume=oui&amp;CB_Resume_court=oui&amp;CB_typdoc=oui&amp;CB_audience=oui&amp;langue=Anglais&amp;tri_exp=annee_publi&amp;tri_exp2=typdoc&amp;tri_exp3=date_publi&amp;ordre_aff=TA&amp;CB_rubriqueDiv=oui&amp;Fen=Aff&amp;css=https://mia-ps.inrae.fr/sites/default/files/documents/publications/css/VisuRubriqueEncadre.css">
+    Your browser does not support iframes, but you can visit <a href="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Caroline%2C+Cognot&amp;CB_auteur=oui&amp;CB_titre=oui&amp;CB_identifiant=oui&amp;CB_article=oui&amp;CB_DOI=oui&amp;CB_pubmedId=oui&amp;CB_resume=oui&amp;CB_Resume_court=oui&amp;CB_typdoc=oui&amp;CB_audience=oui&amp;langue=Anglais&amp;tri_exp=annee_publi&amp;tri_exp2=typdoc&amp;tri_exp3=date_publi&amp;ordre_aff=TA&amp;CB_rubriqueDiv=oui&amp;Fen=Aff&amp;css=https://mia-ps.inrae.fr/sites/default/files/documents/publications/css/VisuRubriqueEncadre.css">Publications</a>
+  </iframe>
+  

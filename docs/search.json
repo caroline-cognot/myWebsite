@@ -16,9 +16,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About me",
+    "title": "Caroline Cognot",
     "section": "",
-    "text": "About me\nI am a PhD student in statistics. My subject is Multisite stochastic generation of multivariate weather time series.\nI am a part of the R38 team at EDF, as well as in MIA-PS team at INRAE, both located in Palaiseau.\n\nWhere to find me\n\nMonday, Tuesday : Opale-1-EF-01 - EDF Lab Paris-Saclay, 7 Bd Gaspard Monge, 91120 Palaiseau\nWednesday, Thursday : E3-710 - AgroParisTech, 22 place de l’Agronomie, 91120 Palaiseau\nFriday : any"
+    "text": "I am a PhD student in statistics. My subject is Multisite stochastic generation of multivariate weather time series.\nI am a part of the R38 team at EDF, as well as in MIA-PS team at INRAE, both located in Palaiseau."
   },
   {
     "objectID": "CV.html",
@@ -44,9 +44,9 @@
   {
     "objectID": "index.html#where-to-find-me",
     "href": "index.html#where-to-find-me",
-    "title": "About me",
-    "section": "",
-    "text": "Monday, Tuesday : O1EF01 - EdF Lab Paris-Saclay, 7 Bd Gaspard Monge, 91120 Palaiseau\nWednesday, Thursday : E3.710 - AgroParisTech, 22 place de l’Agronomie, 91120 Palaiseau\nFriday : home or any of the above, with a completely non-uniform random choice"
+    "title": "Caroline Cognot",
+    "section": "Where to find me",
+    "text": "Where to find me\n\nMonday, Tuesday : Opale-1-EF-01 - EDF Lab Paris-Saclay, 7 Bd Gaspard Monge, 91120 Palaiseau\nWednesday, Thursday : E3-710 - AgroParisTech, 22 place de l’Agronomie, 91120 Palaiseau\nFriday : any"
   },
   {
     "objectID": "posts/my_first_package.html",
@@ -60,7 +60,7 @@
     "href": "blog.html",
     "title": "Posts",
     "section": "",
-    "text": "Here, I’ll try to write about my research, mathematics, or anything else I do that maybe can be of use !\n\n\n\n\n\n\n\n\n\n\n\n\nNew package : SpatialBernoulli.jl\n\n\n\n\n\n\nCaroline Cognot\n\n\nFeb 11, 2026\n\n\n\n\n\n\n\n\n\n\n\nMy first article is published\n\n\n\n\n\n\n\n\n\nOct 9, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "New package : SpatialBernoulli.jl\n\n\n\n\n\n\nCaroline Cognot\n\n\nFeb 11, 2026\n\n\n\n\n\n\n\n\n\n\n\nMy first article is published\n\n\n\n\n\n\n\n\n\nOct 9, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/my_first_article.html",
@@ -68,5 +68,19 @@
     "title": "My first article is published",
     "section": "",
     "text": "Publication success !\nI am pleased to announce that my very first paper is published here : A spatio-temporal weather generator for the temperature over France. It is a joint paper with my supervisors, Liliane Bel, Sylvie Parey and David Métivier.\nIt talks about the modelling of mean daily temperature at the scale of France, incorporating trends, seasonality and spatio-temporal geostatistics.\n\n\n\nArticle thumbnail image"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Caroline Cognot",
+    "section": "",
+    "text": "I am a PhD student in statistics. My subject is Multisite stochastic generation of multivariate weather time series.\nI am a part of the R38 team at EDF, as well as in MIA-PS team at INRAE, both located in Palaiseau."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Caroline Cognot",
+    "section": "Publications",
+    "text": "Publications\n Your browser does not support iframes, but you can visit &lt;a href=\"https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Caroline%2C+Cognot&amp;CB_auteur=oui&amp;CB_titre=oui&amp;CB_identifiant=oui&amp;CB_article=oui&amp;CB_DOI=oui&amp;CB_pubmedId=oui&amp;CB_resume=oui&amp;CB_Resume_court=oui&amp;CB_typdoc=oui&amp;CB_audience=oui&amp;langue=Anglais&amp;tri_exp=annee_publi&amp;tri_exp2=typdoc&amp;tri_exp3=date_publi&amp;ordre_aff=TA&amp;CB_rubriqueDiv=oui&amp;Fen=Aff&amp;css=https://mia-ps.inrae.fr/sites/default/files/documents/publications/css/VisuRubriqueEncadre.css\"&gt;Publications&lt;/a&gt;"
   }
 ]
