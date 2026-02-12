@@ -10,8 +10,7 @@ about:
 ---
 
 ## About me
-I am a PhD student in statistics.
-My subject is **Multisite stochastic generation of multivariate weather time series**. 
+I am a PhD student in statistics. My subject is **Multisite stochastic generation of multivariate weather time series**. 
 
 I am a part of the R38 team at EDF, as well as in [MIA-PS](https://mia-ps.inrae.fr/) team at [INRAE](https://www.inrae.fr/en), both located in Palaiseau.
 
